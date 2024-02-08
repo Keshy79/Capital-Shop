@@ -1,0 +1,112 @@
+.first {
+    background-color: #333333;
+    color: white;
+    height: 60px;
+    /* position: fixed; */
+}
+/* .Black {
+    height: 30px;
+} */
+#cat{
+    background-color: #222222;
+}
+.first-images{
+    margin-left: -100px;
+    
+}
+
+/* .first-images:hover {
+    border: 1px solid red;
+
+} */
+
+.first-images img:hover {
+    border: 1px solid red;
+}
+
+
+
+.full-logo{
+  padding: 0px 80px;
+}
+.shop-now{
+     color: #cead65;
+} 
+.prev{
+    width: 40px;
+    /* margin-top: 200px; */
+    margin: auto;
+    height: 80px;
+}
+.hero{
+    height: 700px;
+}
+.tran-text {
+    transform: translate(400px, -300px);
+}
+
+.tran-text1 {
+    transform: translate(-150px, -200px);
+}
+.btn-shop1{
+    height: 50px;
+    width: 150px;
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+}
+
+.btn-shop1:hover{
+background-color: #fff9f9;
+color: black;
+}
+.btn-shop2{
+    height: 50px;
+    width: 150px;
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+}
+.home ul a li:hover{
+color: #ff2218;
+}
+.btn-shop2:hover{
+background-color: #e2f4f7;
+color: black;
+}
+
+.fashion{
+    font-family:'Dancing Script', cursive;;
+}
+.basket1{
+    background-color: #7ac64d;
+}
+.basket1:hover{
+    background-color: black;
+}
+.comuputer a img:hover{
+    background: black;
+}
+.tab:hover{
+    background-color: black;
+}
+.phone:hover{
+    background-color: black;
+}
+.basket1:hover{
+    background-color: black;
+}
+.cross:hover{
+    background-color: black;
+}
+    
+h3{
+    transform: translate(80px, -70px);
+    color: white;
+}
+
+#ii:hover {
+    border: 1px solid red;
+    transform: scaleX(-1);
+    transition: .5s ease-in-out;
+}

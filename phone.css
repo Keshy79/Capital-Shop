@@ -1,0 +1,34 @@
+@media screen and (max-width: 475px) {
+    .lit {
+        display: block;
+    }
+
+    .first-images{
+        margin-left: 0px;
+    }
+    #cat{
+        display: none;
+    }
+
+   .clogo {
+    /* margin-right: 100px; */
+   }  
+   .comuputer {
+    display: none;
+   } 
+   .full-logo{
+    padding: 0px 10px;
+  }
+  .hero{
+    height: 400px;
+}
+.tran-text {
+    transform: translate(100px, 20px);
+}
+.tran-text1 {
+    transform: translate(-30px, -20px);
+}
+.faq {
+    display: none;
+}
+}
